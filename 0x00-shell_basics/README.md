@@ -7,3 +7,4 @@ this script moves betty from tmp
 this script deletes the file betty
 This script deletes my first directory
 this script changes the working directory
+this script lists all files
