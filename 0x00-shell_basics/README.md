@@ -11,3 +11,5 @@ this script lists all files
 this script prints the type of the file named
 tsi script creates a symbolic link
 this script copies all the html files from the working directory
+this script moves all files begging with uppercase
+this script deletes all current working directories

@@ -11,3 +11,5 @@ task 11, lists
 task 12. file type
 Task 13.we are symbols
 task 14. copy html files
+task 15,lets move
+task 16,clean emacs
