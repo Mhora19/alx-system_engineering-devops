@@ -9,3 +9,4 @@ This script deletes my first directory
 this script changes the working directory
 this script lists all files
 this script prints the type of the file named
+tsi script creates a symbolic link
