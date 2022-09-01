@@ -3,3 +3,4 @@ task 3.the long format
 task 4.hidden files
 I love numbers.task 5
 Task 6,welcome
+Task 7,moving betty

@@ -3,3 +3,4 @@ this script displays current directory contents in a long format
 This script displays the current directory contents including hidden files
 this script displays current directory contents in long format
 this script creates a directory named my_first_directory
+this script moves betty from tmp
