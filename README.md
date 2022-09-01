@@ -5,3 +5,4 @@ I love numbers.task 5
 Task 6,welcome
 Task 7,moving betty
 Task 8.Deleting betty
+Task 9.Bye bye my first directory

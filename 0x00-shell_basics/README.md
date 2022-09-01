@@ -5,3 +5,4 @@ this script displays current directory contents in long format
 this script creates a directory named my_first_directory
 this script moves betty from tmp
 this script deletes the file betty
+This script deletes my first directory
