@@ -1,2 +1,3 @@
 this script changes the working directory to te users home directory
 this script displays current directory contents in a long format
+This script displays the current directory contents including hidden files
