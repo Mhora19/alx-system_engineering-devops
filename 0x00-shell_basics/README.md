@@ -6,3 +6,4 @@ this script creates a directory named my_first_directory
 this script moves betty from tmp
 this script deletes the file betty
 This script deletes my first directory
+this script changes the working directory
