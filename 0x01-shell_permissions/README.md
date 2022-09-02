@@ -11,4 +11,8 @@ This script sets the mode of the file
 This script sets the mode of the file 'hello' to the same as the file 'olleh'
 This script adds executes permission to the directory of the current directoriesfor the owner, group and others 
 This script creates a directory 
-This script changes the group owner 
+This script changes the group owner
+This script changes the owner to vincent and the group owner to staff for all files
+This script changes the owner and group owner of hello to vincent and staff respectively
+This script changes the owner of the file hello to betty only if it is owned by the user guillaume. 
+This script will play the StarWars IV episode in the terminal.
